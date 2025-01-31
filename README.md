@@ -20,7 +20,7 @@ isso removerá o arquivo teste.txt e criará teste.txt.ransomwaretroll.
 python decrypter.py
 isso removerá o arquivo criptografado e restaurará teste.txt.
 
-## 📝🔹 Códigos
+## Códigos
 Encrypter (encrypter.py)
 
 import os
